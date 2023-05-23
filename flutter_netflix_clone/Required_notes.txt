@@ -1,0 +1,23 @@
+flutter_bloc
+freezed_annotation
+json_annotation
+json_serializable
+get_it
+injectable
+
+dio
+dartz (for Either and Option)
+google_fonts
+video_player
+share_plus
+intl
+card_swiper
+youtube_player_flutter
+
+dev dep
+---------
+
+build_runner
+freezed
+injectable_generator
+
